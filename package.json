@@ -1,0 +1,13 @@
+{
+  "name": "readdir-deep",
+  "version": "1.0.0",
+  "description": "Reads a directory recursively. (Only the files are returned, no folder/directory)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "drunk/readdir-deep",
+  "keywords": ["readdir", "recursive", "deep", "fs", "async", "promise"],
+  "author": "Elie Grenon (DrunkenPoney)",
+  "license": "ISC"
+}
