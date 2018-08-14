@@ -7,7 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": "drunk/readdir-deep",
-  "keywords": ["readdir", "recursive", "deep", "fs", "async", "promise"],
-  "author": "Elie Grenon (DrunkenPoney)",
+  "keywords": [
+    "readdir",
+    "recursive",
+    "deep",
+    "fs",
+    "async",
+    "promise"
+  ],
+  "author": {
+    "name": "Elie Grenon (DrunkenPoney)",
+    "email": "mrquebec13@gmail.com"
+  },
   "license": "ISC"
 }
